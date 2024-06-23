@@ -1,6 +1,6 @@
 # AI-Driven-Personalized-Learning-Assistant
 Final project for the Building AI course
-##Summary
+## Summary
 This project aims to develop an AI-driven personalized learning assistant that tailors educational content to individual students' learning styles and progress. The system leverages machine learning algorithms and natural language processing to provide customized study plans, real-time feedback, and adaptive learning materials.
 
 Background
